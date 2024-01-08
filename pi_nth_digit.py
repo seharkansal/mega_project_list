@@ -2,9 +2,7 @@ import math
 
 def CalculatePi(roundVal):
 
-		somepi = round(math.pi,roundVal);
-		#pi = str(somepi)
-		#someList = list(pi)
+		somepi = round(math.pi,roundVal)
 		return somepi
 	
 	
